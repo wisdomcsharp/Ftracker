@@ -1,0 +1,2 @@
+@echo off
+"Filetracker test.exe" Hello

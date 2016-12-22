@@ -1,0 +1,27 @@
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\bin\Release\Filetracker test.exe.config
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\bin\Release\Filetracker test.exe
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\bin\Release\Filetracker test.pdb
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Release\Filetracker_test.Form1.resources
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Release\Filetracker_test.Properties.Resources.resources
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Release\Filetracker test.csproj.GenerateResource.Cache
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Release\Filetracker test.exe
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Release\Filetracker test.pdb
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Release\Filetracker test.csprojResolveAssemblyReference.cache
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\bin\Release\Filetracker test.exe.config
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\obj\Release\Filetracker test.exe
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\obj\Release\Filetracker test.pdb
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\bin\Release\Filetracker test.exe
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\bin\Release\Filetracker test.pdb
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\obj\Release\Filetracker test.csprojResolveAssemblyReference.cache
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\obj\Release\Filetracker_test.Properties.Resources.resources
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\obj\Release\Filetracker test.csproj.GenerateResource.Cache
+C:\Users\Wisdom\Documents\Visual Studio 2015\Projects\Filetracker - NET40\Filetracker test\obj\Release\Filetracker_test.Form1.resources
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\bin\Release\Filetracker test.exe.config
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\obj\Release\Filetracker test.exe
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\obj\Release\Filetracker test.pdb
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\bin\Release\Filetracker test.exe
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\bin\Release\Filetracker test.pdb
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\obj\Release\Filetracker test.csprojResolveAssemblyReference.cache
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\obj\Release\Filetracker_test.Form1.resources
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\obj\Release\Filetracker_test.Properties.Resources.resources
+C:\Users\Wisdom\Documents\GitHub\Ftracker\Filetracker test\obj\Release\Filetracker test.csproj.GenerateResource.Cache

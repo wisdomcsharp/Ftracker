@@ -1,0 +1,9 @@
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\bin\Debug\Filetracker test.exe
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\bin\Debug\Filetracker test.pdb
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Debug\Filetracker_test.Form1.resources
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Debug\Filetracker_test.Properties.Resources.resources
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Debug\Filetracker test.csproj.GenerateResource.Cache
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Debug\Filetracker test.exe
+c:\users\wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Debug\Filetracker test.pdb
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\bin\Debug\Filetracker test.exe.config
+C:\Users\Wisdom\documents\visual studio 2015\Projects\Filetracker test\Filetracker test\obj\Debug\Filetracker test.csprojResolveAssemblyReference.cache
